@@ -1,9 +1,7 @@
-# 🎲 Dice Game  
+#  Dice Game  
 
 Dice Game is a fun and simple two-player dice rolling game. Each player rolls a die, and the one with the higher number wins. If both players roll the same number, it's a draw.  
-
-It can also be used as a **Toss** tool!  
-
+  
 ## 🛠 Technologies Used  
 - HTML  
 - CSS  
