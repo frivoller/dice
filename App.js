@@ -1,5 +1,5 @@
 import React from 'react';
-import MysteryCasinoDiceGame from './components/MysteryCasinoDiceGame';
+import MysteryCasinoDiceGame from './components/DiceGame';
 
 function App() {
   return (
