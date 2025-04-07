@@ -4,7 +4,7 @@ import MysteryCasinoDiceGame from './components/MysteryCasinoDiceGame';
 function App() {
   return (
     <div className="App">
-      <MysteryCasinoDiceGame />
+      <DiceGame />
     </div>
   );
 }
